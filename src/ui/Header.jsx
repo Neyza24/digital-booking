@@ -17,9 +17,9 @@ const Header = () => {
 
 
     return (
-        <header className='header'>
+        <header className='header border-b w-full'>
 
-            <nav className='nav container'>
+            <nav className='container nav'>
                 <div className='box__logo'>
                     <a href='#' className='nav__logo'><img src={logoMobile} /></a>
                 </div>

@@ -1,4 +1,6 @@
 
+import { Head } from './booking/components/head/Head'
+import { ProductsList } from './booking/components/products/ProductsList'
 import { AppLayout } from './layout/AppLayout'
 
 
@@ -8,8 +10,8 @@ function App() {
   return (
     
     <AppLayout>
-
-      <h1 className='text-center'>Bookinng App</h1>
+      <Head />
+      <ProductsList />
       
     </AppLayout>
     

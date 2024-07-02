@@ -1,11 +1,12 @@
+
+
 .header {
     width: 100%;
-    position: fixed;
+    position: sticky;
     top: 0;
-    left: 0;
     z-index: var(--z-fixed);
+    padding-top: 1rem;
     background-color: var(--container-color);
-    padding-top: 16px;
     box-shadow: var(--shadow-color), var(--shadow-elevation-high);
 }
 
@@ -29,8 +30,7 @@
 }
 
 .nav__logo {
-    margin-left: 12px;
-    
+    margin-left: 0px;
 }
 
 
@@ -135,11 +135,11 @@ a>span, a>img {
     .nav__toggle {
         font-size: 1.5rem;
         cursor: pointer;
-        margin-right: 16px;
+        margin-right: 0px;
     }
 
     .nav__logo {
-        margin-left: 20px;
+        margin-left: 0px;
     }
 
     .nav__close,
@@ -161,10 +161,10 @@ a>span, a>img {
     }
 
     .nav__toggle {
-        margin-right: 24px;
+        margin-right: 0px;
     }
 
     .nav__logo {
-        margin-left: 12px;
+        margin-left: 0px;
     }
 }

@@ -7,7 +7,7 @@ export const AppLayout = ({ children }) => {
     return (
         <div className="">
             <Header />
-            <main className="main">
+            <main className="main container">
                 {
                     children
                 }
