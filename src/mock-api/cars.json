@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "title": "Mercedes Clase S",
+        "qualification": "Muy bueno",
+        "score": 8,
+        "security": 5,
+        "city": "Ontario",
+        "location": "A 940 m del centro",
+        "category_id": 1,
+        "pricePerNight": "289",
+        "images": [
+            {
+                "id": 1,
+                "imgUrl": "https://www.actualidadmotor.com/wp-content/uploads/2020/09/mercedes-clase-s-5.jpg",
+                "description": "principal"
+                
+            },
+            {
+                "id": 2,
+                "imgUrl": "https://www.actualidadmotor.com/wp-content/uploads/2020/09/mercedes-clase-s-2.jpg",
+                "description": "lateral"
+                
+            }
+        ],
+        "features": [
+            {
+                "id": 1,
+                "name": "air"
+            },
+            {
+                "id": 2,
+                "name": "transmission"
+            },
+            {
+                "id": 3,
+                "name": "seat"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "Hyundai i30",
+        "qualification": "Muy bueno",
+        "score": 8,
+        "security": 5,
+        "location": "A 940 m del centro",
+        "category_id": 2
+    },
+    {
+        "id": 3,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "Audi TT RS",
+        "qualification": "Excelente",
+        "score": 10,
+        "security": 5,
+        "location": "A 940 m del centro",
+        "category_id": 3
+    },
+    {
+        "id": 4,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "Hyundai Tucson",
+        "qualification": "Muy bueno",
+        "score": 8,
+        "security": 4,
+        "location": "A 940 m del centro",
+        "category_id": 2
+        
+    },
+    {
+        "id": 5,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "BMW Serie 7",
+        "qualification": "Muy bueno",
+        "score": 8,
+        "security": 5,
+        "location": "A 940 m del centro",
+        "category_id": 1
+    },
+    {
+        "id": 6,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "Toyota Yaris",
+        "qualification": "Muy bueno",
+        "score": 8,
+        "security": 4,
+        "location": "A 940 m del centro",
+        "category_id": 2
+    },
+    {
+        "id": 7,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "Toyota GR Supra",
+        "qualification": "Muy bueno",
+        "score": 9,
+        "security": 5,
+        "location": "A 940 m del centro",
+        "category_id": 3
+    },
+    {
+        "id": 8,
+        "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard.",
+        "name": "Ferrari 812 GTS",
+        "qualification": "Excelente",
+        "score": 10,
+        "security": 5,
+        "location": "A 940 m del centro",
+        "category_id": 1
+    }
+]
+

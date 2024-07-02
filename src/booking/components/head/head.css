@@ -1,0 +1,49 @@
+
+.box__head {
+    background-size: cover;
+    background-position: bottom;
+    background-image: url('./fondoB.png') ;
+    justify-content: center;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 25px;
+}
+
+.box__head>h1 {
+    color: #fff;
+}
+
+
+
+
+
+.title-head {
+    color: red;
+    text-align: center; 
+    font-size:28px;
+    padding: 24px 0;
+}
+
+
+.container-shade {
+    position: absolute;
+    align-items: center;
+    background:#fff;
+        border-radius: 12px;
+        padding: 32px 0px;
+        width: 90%;
+        margin: 0 auto;
+    margin-top: 348px;
+    margin-bottom: 80px;
+    box-shadow: rgba(99, 99, 99, 0.24) 0px 2px 8px 0px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .container-shade {
+        width: 100%;
+        
+        
+    }
+}
